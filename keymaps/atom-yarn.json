@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-alt-o": "atom-yarn:toggle"
+  }
+}
