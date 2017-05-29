@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-yarn:toggle"
   },
-  "repository": "https://github.com/atom/atom-yarn",
+  "repository": "https://github.com/cbovis/atom-yarn",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
