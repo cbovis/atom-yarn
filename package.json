@@ -2,7 +2,7 @@
   "name": "atom-yarn",
   "main": "./lib/atom-yarn",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Quick access to commonly used Yarn commands.",
   "keywords": [
   ],
   "activationCommands": {
