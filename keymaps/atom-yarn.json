@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "cmd-y": "atom-yarn:toggle"
+    "shift-cmd-y": "atom-yarn:toggle"
   }
 }
