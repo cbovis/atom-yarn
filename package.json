@@ -3,8 +3,7 @@
   "main": "./lib/atom-yarn",
   "version": "0.0.0",
   "description": "Quick access to commonly used Yarn commands.",
-  "keywords": [
-  ],
+  "keywords": ["yarn"],
   "activationCommands": {
     "atom-workspace": "atom-yarn:toggle"
   },
