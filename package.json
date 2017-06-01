@@ -6,9 +6,6 @@
   "keywords": [
     "yarn"
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-yarn:toggle"
-  },
   "repository": "https://github.com/cbovis/atom-yarn",
   "license": "MIT",
   "engines": {
