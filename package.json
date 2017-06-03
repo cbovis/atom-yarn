@@ -15,8 +15,8 @@
   "dependencies": {
     "atom-select-list": "^0.2.0",
     "es6-promisify": "^5.0.0",
-    "html-linkify": "^1.2.2",
     "jsonfile": "^3.0.0",
+    "linkify-urls": "^1.0.0",
     "lodash": "^4.17.4"
   }
 }
