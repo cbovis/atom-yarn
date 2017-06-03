@@ -3,6 +3,7 @@
   "main": "./lib/atom-yarn",
   "version": "0.0.0",
   "description": "Quick access to commonly used Yarn commands.",
+  "author": "Craig Bovis <craig@bovis.me.uk>",
   "keywords": [
     "yarn"
   ],
