@@ -56,6 +56,10 @@ lodash@^4.17.4:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
+promise-queue@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/promise-queue/-/promise-queue-2.2.3.tgz#8534d76bf4673c3baa3a82bba01bd295cc30f14f"
+
 tlds@^1.187.0:
   version "1.187.0"
   resolved "https://registry.yarnpkg.com/tlds/-/tlds-1.187.0.tgz#46ee588ffc2414f5ccd31ca8b41e667b215044ce"
