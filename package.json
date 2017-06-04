@@ -18,6 +18,7 @@
     "jsonfile": "^3.0.0",
     "linkify-urls": "^1.0.0",
     "lodash": "^4.17.4",
-    "promise-queue": "^2.2.3"
+    "promise-queue": "^2.2.3",
+    "unix-timestamp": "^0.2.0"
   }
 }

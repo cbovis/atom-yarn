@@ -64,6 +64,10 @@ tlds@^1.187.0:
   version "1.187.0"
   resolved "https://registry.yarnpkg.com/tlds/-/tlds-1.187.0.tgz#46ee588ffc2414f5ccd31ca8b41e667b215044ce"
 
+unix-timestamp@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/unix-timestamp/-/unix-timestamp-0.2.0.tgz#e1cdc2808df6327d27e635d9351e72815288733e"
+
 url-regex@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/url-regex/-/url-regex-4.1.0.tgz#727c404891d1caa5f54e3da44e8665860f2b5761"
