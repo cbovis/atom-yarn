@@ -13,6 +13,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "array-to-sentence": "^1.1.0",
     "atom-select-list": "^0.2.0",
     "es6-promisify": "^5.0.0",
     "jsonfile": "^3.0.0",

@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+array-to-sentence@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/array-to-sentence/-/array-to-sentence-1.1.0.tgz#c804956dafa53232495b205a9452753a258d39fc"
+
 atom-select-list@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/atom-select-list/-/atom-select-list-0.2.0.tgz#a4b6d919238c80cc5cda9951154c41b999002dcf"
