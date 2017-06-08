@@ -2,7 +2,7 @@
 
 A handy little package that lets you do things with Yarn without leaving Atom.
 
-[Screenshot Here]
+![Demo](docs/img/demo.gif)
 
 ## Features
 
@@ -20,7 +20,7 @@ via the command palette
 
 ## Credits
 
-Inspiration taken from the fantastic 
+Inspiration taken from the fantastic
 [Git Plus](https://atom.io/packages/git-plus) extension by
 [Akonwi Ngoh](https://github.com/akonwi)
 
