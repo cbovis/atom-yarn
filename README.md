@@ -4,9 +4,9 @@
 
 A handy little package that lets you do things with Yarn without leaving Atom.
 
-![Demo](docs/img/demo.gif)
+![Demo](https://raw.githubusercontent.com/cbovis/atom-yarn/master/docs/img/demo.gif)
 
-![Notification](docs/img/listener.png)
+![Notification](https://raw.githubusercontent.com/cbovis/atom-yarn/master/docs/img/listener.png)
 
 ## Features
 
