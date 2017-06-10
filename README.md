@@ -6,6 +6,8 @@ A handy little package that lets you do things with Yarn without leaving Atom.
 
 ![Demo](docs/img/demo.gif)
 
+![Notification](docs/img/listener.png)
+
 ## Features
 
 * Run common Yarn commands such as add, remove, install, init etc. using an
