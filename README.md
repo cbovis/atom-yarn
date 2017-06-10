@@ -1,5 +1,7 @@
 # Atom Yarn
 
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 A handy little package that lets you do things with Yarn without leaving Atom.
 
 ![Demo](docs/img/demo.gif)
