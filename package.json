@@ -12,6 +12,16 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
+    ]
+  },
   "dependencies": {
     "array-to-sentence": "^1.1.0",
     "atom-select-list": "^0.2.0",
@@ -22,5 +32,13 @@
     "opn": "^5.0.0",
     "promise-queue": "^2.2.3",
     "unix-timestamp": "^0.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0",
+    "husky": "^0.13.4",
+    "lint-staged": "^3.6.0",
+    "prettier": "^1.4.4"
   }
 }
