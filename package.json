@@ -1,7 +1,7 @@
 {
   "name": "atom-yarn",
   "main": "./lib/atom-yarn",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A handy little package that lets you do Yarn things without leaving Atom.",
   "author": "Craig Bovis <craig@bovis.me.uk>",
   "keywords": [
