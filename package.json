@@ -25,21 +25,20 @@
     "array-to-sentence": "^1.1.0",
     "atom-select-list": "^0.2.0",
     "es6-promisify": "^5.0.0",
-    "eslint-plugin-classes": "^0.1.1",
     "jsonfile": "^3.0.0",
     "linkify-urls": "^1.0.0",
     "lodash": "^4.17.4",
     "opn": "^5.0.0",
-    "prettier-eslint-cli": "^4.1.1",
     "promise-queue": "^2.2.3",
     "unix-timestamp": "^0.2.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-classes": "^0.1.1",
     "eslint-plugin-import": "^2.3.0",
     "husky": "^0.13.4",
     "lint-staged": "^3.6.0",
-    "prettier": "^1.4.4"
+    "prettier-eslint-cli": "^4.1.1"
   }
 }
