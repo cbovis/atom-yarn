@@ -17,8 +17,7 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint --fix",
-      "prettier --write",
+      "prettier-eslint --write",
       "git add"
     ]
   },
@@ -31,6 +30,7 @@
     "linkify-urls": "^1.0.0",
     "lodash": "^4.17.4",
     "opn": "^5.0.0",
+    "prettier-eslint-cli": "^4.1.1",
     "promise-queue": "^2.2.3",
     "unix-timestamp": "^0.2.0"
   },
