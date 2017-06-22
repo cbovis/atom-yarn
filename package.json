@@ -30,6 +30,7 @@
     "lodash": "^4.17.4",
     "opn": "^5.0.0",
     "promise-queue": "^2.2.3",
+    "read-pkg": "^2.0.0",
     "unix-timestamp": "^0.2.0"
   },
   "devDependencies": {
