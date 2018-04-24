@@ -11,11 +11,11 @@ A handy little package that lets you do things with Yarn without leaving Atom.
 ## Features
 
 * Run common Yarn commands such as add, remove, install, init etc. using an
-easy to access command palette
+  easy to access command palette
 * Get notified of external changes to package.json/yarn.lock with a prompt
-to install missing dependencies
+  to install missing dependencies
 * Quick access to the README, website and repo of installed dependencies
-via the command palette
+  via the command palette
 
 ## Default Keybindings
 
