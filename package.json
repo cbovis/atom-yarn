@@ -2,11 +2,10 @@
   "name": "atom-yarn",
   "main": "./lib/atom-yarn",
   "version": "0.7.0",
-  "description": "A handy little package that lets you do Yarn things without leaving Atom.",
+  "description":
+    "A handy little package that lets you do Yarn things without leaving Atom.",
   "author": "Craig Bovis <craig@bovis.me.uk>",
-  "keywords": [
-    "yarn"
-  ],
+  "keywords": ["yarn"],
   "repository": "https://github.com/cbovis/atom-yarn",
   "license": "MIT",
   "engines": {
@@ -16,14 +15,8 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.{js, jsx}": [
-      "eslint --fix",
-      "git add"
-    ],
-    "*.{md, less}": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.{js, jsx}": ["eslint --fix", "git add"],
+    "*.{md, less}": ["prettier --write", "git add"]
   },
   "dependencies": {
     "array-to-sentence": "^1.1.0",
