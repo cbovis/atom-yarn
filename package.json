@@ -29,6 +29,7 @@
   "dependencies": {
     "array-to-sentence": "^2.0.0",
     "atom-select-list": "^0.7.1",
+    "is-promise": "^2.1.0",
     "linkify-urls": "^1.6.0",
     "lodash": "^4.17.10",
     "normalize-git-url": "^3.0.2",
