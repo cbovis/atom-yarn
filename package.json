@@ -2,10 +2,11 @@
   "name": "atom-yarn",
   "main": "./lib/atom-yarn",
   "version": "0.8.0",
-  "description":
-    "A handy little package that lets you do Yarn things without leaving Atom.",
+  "description": "A handy little package that lets you do Yarn things without leaving Atom.",
   "author": "Craig Bovis <craig@bovis.me.uk>",
-  "keywords": ["yarn"],
+  "keywords": [
+    "yarn"
+  ],
   "repository": "https://github.com/cbovis/atom-yarn",
   "license": "MIT",
   "engines": {
@@ -16,30 +17,35 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.{js, jsx}": ["eslint --fix", "git add"],
-    "*.{md, less}": ["prettier --write", "git add"]
+    "*.{js, jsx}": [
+      "eslint --fix",
+      "git add"
+    ],
+    "*.{md, less}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "dependencies": {
-    "array-to-sentence": "^1.1.0",
-    "atom-select-list": "^0.2.0",
-    "es6-promisify": "^5.0.0",
-    "jsonfile": "^3.0.0",
-    "linkify-urls": "^1.0.0",
-    "lodash": "^4.17.4",
-    "opn": "^5.0.0",
-    "promise-queue": "^2.2.3",
-    "read-pkg": "^2.0.0",
+    "array-to-sentence": "^2.0.0",
+    "atom-select-list": "^0.7.1",
+    "linkify-urls": "^1.6.0",
+    "lodash": "^4.17.10",
+    "normalize-git-url": "^3.0.2",
+    "opn": "^5.3.0",
+    "promise-queue": "^2.2.5",
+    "read-pkg": "^3.0.0",
     "unix-timestamp": "^0.2.0"
   },
   "devDependencies": {
-    "eslint": "^4.0.0",
-    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-classes": "^0.1.1",
-    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-prettier": "^2.6.0",
-    "husky": "^0.13.4",
-    "lint-staged": "^4.0.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.5",
     "prettier": "^1.12.1"
   }
 }
