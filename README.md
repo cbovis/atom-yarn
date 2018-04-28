@@ -1,6 +1,7 @@
 # Atom Yarn
 
 ![Travis](https://img.shields.io/travis/cbovis/atom-yarn.svg?style=flat-square)
+![David](https://img.shields.io/david/cbovis/atom-yarn.svg?style=flat-square)
 ![apm](https://img.shields.io/apm/dm/atom-yarn.svg?style=flat-square)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
