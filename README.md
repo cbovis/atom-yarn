@@ -1,5 +1,6 @@
 # Atom Yarn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cbovis/atom-yarn.svg?style=flat-square)](https://greenkeeper.io/)
 ![Travis](https://img.shields.io/travis/cbovis/atom-yarn.svg?style=flat-square)
 ![David](https://img.shields.io/david/cbovis/atom-yarn.svg?style=flat-square)
 ![apm](https://img.shields.io/apm/dm/atom-yarn.svg?style=flat-square)
