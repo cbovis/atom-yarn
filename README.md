@@ -6,6 +6,8 @@
 ![apm](https://img.shields.io/apm/dm/atom-yarn.svg?style=flat-square)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
+> **Note:** This extension is no longer actively maintained.
+
 A handy little package that lets you do things with Yarn without leaving Atom.
 
 ![Demo](https://raw.githubusercontent.com/cbovis/atom-yarn/master/docs/img/demo.gif)
